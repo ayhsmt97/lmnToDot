@@ -1,0 +1,3 @@
+# pycache を無視
+/state/__pycache__/
+/__pycache__/
